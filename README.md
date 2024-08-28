@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Odyssey409%20render&fontSize=90&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Odyssey409%&fontSize=90&animation=twinkling" />
 </div>
 
 <!--내용 부분-->
@@ -61,7 +61,8 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://www.instagram.com/e.u__jin/">
-    <img src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
+    <img
+      src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>
   <a href="odyssey409@naver.com">
     <img
