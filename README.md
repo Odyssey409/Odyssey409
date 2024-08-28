@@ -62,7 +62,7 @@
 <div align="center">
   <a href="https://www.instagram.com/e.u__jin/">
     <img
-      src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>
   <a href="odyssey409@naver.com">
     <img
