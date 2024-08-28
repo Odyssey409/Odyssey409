@@ -1,4 +1,4 @@
-![StandingOvationGIF](https://github.com/user-attachments/assets/83c13813-c708-4eb8-9a4f-19789a3d1d70)<div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Odyssey%&fontSize=90&animation=twinkling" />
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/socketdotio-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white" />&nbsp
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
 
@@ -27,7 +27,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />&nbsp
+ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
 
@@ -36,9 +36,10 @@
 <h3 align="center">🚀 Planning to Learn real sooooon 🚀</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/reactNative-09D3AC.svg?style=for-the-badge&logo=createreactapp&logoColor=61DAFB" />&nbsp
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   <img src="https://img.shields.io/badge/NextJs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
+  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 </div>
 
 <br>
@@ -52,9 +53,9 @@
 
 <div align="center">
   <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-      <img src="https://img.shields.io/badge/VS2022-2C2C32.svg?style=for-the-badge&logo=visual-studio&logoColor=22ABF3" />&nbsp
+     ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 </div>
 
 <br>
