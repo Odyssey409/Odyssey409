@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Odyssey%&fontSize=90&animation=twinkling" />
 </div>
 
-![Odyssey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Odyssey409&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odyssey409&layout=compact)
 
 <!--내용 부분-->
 <h3 align="center">✨ Currently Learning & have little skills in... ✨</h3>
