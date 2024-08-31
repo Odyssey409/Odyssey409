@@ -35,14 +35,13 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=ffdd54" />&nbsp
- <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=socket.io&badgeColor=010101" />&nbsp
+ <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />&nbsp
  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=ffdd54" />&nbsp
- <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=react-router&badgeColor=010101" />&nbsp
- <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+ <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&badgeColor=010101" />&nbsp
 </div>
 
 <br>
