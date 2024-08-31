@@ -41,7 +41,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=ffdd54" />&nbsp
- <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&badgeColor=010101" />&nbsp
+ <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />&nbsp
 </div>
 
 <br>
