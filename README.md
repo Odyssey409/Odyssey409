@@ -96,5 +96,5 @@
   </a>
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Odyssey409)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=odyssey)](https://github.com/anuraghazra/github-readme-stats)
 
