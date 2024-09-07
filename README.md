@@ -1,5 +1,5 @@
 <div>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Odyssey%&fontSize=90&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Odyssey%&fontSize=90&animation=twinkling" />
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOdyssey409&count_bg=%23000000&title_bg=%23111010&icon=github.svg&icon_color=%23FFFFFF&title=Odyssey%27s+Github+Visitors+&edge_flat=false"/></a>
 </div>
 
