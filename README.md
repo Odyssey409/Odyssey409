@@ -79,7 +79,12 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />&nbsp
-   
+</div>
+
+<div align="center">
+  <div align="center">
+  <img src="https://img.shields.io/badge/Intellij IDEA-0078d7.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
+ 
 </div>
 
 <br>
