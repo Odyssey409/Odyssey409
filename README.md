@@ -83,7 +83,7 @@
 
 <div align="center">
   <div align="center">
-  <img src="https://img.shields.io/badge/Intellij IDEA-0078d7.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Intellij IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
  
 </div>
 
