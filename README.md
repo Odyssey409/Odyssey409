@@ -84,7 +84,7 @@
 <div align="center">
   <div align="center">
   <img src="https://img.shields.io/badge/Intellij IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
- 
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />&nbsp
 </div>
 
 <br>
