@@ -104,5 +104,5 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=odyssey&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:SHOW_LINES_OF_CODE-->
-<!--END_SECTION:SHOW_LINES_OF_CODE-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
