@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby%20query&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
 </div>
 
