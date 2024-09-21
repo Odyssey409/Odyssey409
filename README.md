@@ -105,7 +105,7 @@
   </a>
   <a href="odyssey409@naver.com">
     <img
-      src="https://img.shields.io/badge/odyssey409@naver.com-05d686?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/odyssey409@naver.com-05d686?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 </div>
 
