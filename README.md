@@ -101,11 +101,11 @@
 <div align="center">
   <a href="https://www.instagram.com/e.u__jin/">
     <img
-      src="https://img.shields.io/badge/e.u__jin-E4405F?style=plastic&logo=instagram&logoColor=white"/>
+      src="https://img.shields.io/badge/e.u__jin-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   <a href="odyssey409@naver.com">
     <img
-      src="https://img.shields.io/badge/odyssey409@naver.com-05d686?style=for-the-badge&logo=naver&logoColor=white"/>
+      src="https://img.shields.io/badge/odyssey409@naver.com-05d686?style=flat-square&logo=naver&logoColor=white"/>
   </a>
 </div>
 
