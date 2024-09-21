@@ -101,7 +101,7 @@
 <div align="center">
   <a href="https://www.instagram.com/e.u__jin/">
     <img
-      src="https://img.shields.io/badge/e.u__jin-E4405F?style=flat&logo=instagram&logoColor=white"/>
+      src="https://img.shields.io/badge/e.u__jin-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   <a href="odyssey409@naver.com">
     <img
