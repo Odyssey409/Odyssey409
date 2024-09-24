@@ -95,6 +95,10 @@
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />&nbsp
 </div>
 
+<div align="center">
+  <div align="center">
+    <img src="https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp
+</div>
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
