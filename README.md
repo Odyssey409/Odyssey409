@@ -98,6 +98,7 @@
 <div align="center">
   <div align="center">
     <img src="https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
 </div>
 <br>
 
