@@ -54,13 +54,6 @@
 </div>
 <br>
 
-<h3 align="center">🐤 I know a bit about... 🐤</h3>
-<div align="center">
-   
-
-</div>
-<br>
-
 <h3 align="center">😅 I've learned and tried once, once... 😅</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=ffdd54" />&nbsp
