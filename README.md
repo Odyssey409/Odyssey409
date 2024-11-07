@@ -19,7 +19,7 @@
 </a>
 
 <!--내용 부분-->
-<h3 align="center">🔥 My Main Skiils! 🔥</h3>
+<h3 align="center">🔥 My Main Skills! 🔥</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
