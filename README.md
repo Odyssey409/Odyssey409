@@ -1,7 +1,5 @@
 <div>
   <img src="https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=Odyssey%&fontSize=90&animation=twinkling" />
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOdyssey409&count_bg=%23000000&title_bg=%23111010&icon=github.svg&icon_color=%23FFFFFF&title=Odyssey%27s+Github+Visitors+&edge_flat=false"/></a>
- 
 </div>
 
 <div>
@@ -14,6 +12,10 @@
 </a>
 </div>
 
+
+<div>
+   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOdyssey409&count_bg=%23000000&title_bg=%23111010&icon=github.svg&icon_color=%23FFFFFF&title=Odyssey%27s+Github+Visitors+&edge_flat=false"/></a>
+</div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odyssey409&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
