@@ -165,13 +165,12 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     15 mins             █████████████████████████   99.77 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/12/2024 15:09:22 UTC
+ Last Updated on 28/12/2024 15:08:26 UTC
 <!--END_SECTION:waka-->
