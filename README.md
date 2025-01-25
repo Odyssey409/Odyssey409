@@ -134,7 +134,7 @@
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=odyssey&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-842.5%20thousand%20lines%20of%20code-blue)
 
@@ -165,16 +165,16 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Dart                     3 hrs 27 mins       ███████████████████████░░   91.17 % 
-Java Properties          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Dart                     6 hrs 6 mins        ███████████████████████░░   92.25 % 
+Java Properties          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/01/2025 15:09:45 UTC
+ Last Updated on 25/01/2025 15:08:18 UTC
 <!--END_SECTION:waka-->
