@@ -65,6 +65,10 @@
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />&nbsp
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffd35b" />&nbsp
+ 
+</div>
 <br>
 
 <h3 align="center">😅 I've learned and tried once, once... 😅</h3>
