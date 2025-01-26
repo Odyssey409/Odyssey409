@@ -82,7 +82,6 @@
 <h3 align="center">🚀 Planning to Learn real sooooon 🚀</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp
-  
   <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />&nbsp
 </div>
 <div align="center">
@@ -117,6 +116,7 @@
   <div align="center">
     <img src="https://img.shields.io/badge/pycharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />&nbsp
+     <img src="https://img.shields.io/badge/clion-000000?style=for-the-badge&logo=clion&logoColor=white" />&nbsp
 </div>
 <br>
 
