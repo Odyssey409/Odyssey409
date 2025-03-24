@@ -68,6 +68,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffd35b" />&nbsp
    <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB" />&nbsp
+   <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />&nbsp
 </div>
 <br>
 
@@ -90,7 +91,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />&nbsp
+ 
 </div>
 
 <br>
