@@ -14,7 +14,7 @@
 
 
 
-   ![](https://komarev.com/ghpvc/?username=Odyssey409&color=green&style=for-the-badge&label=방문객+수&base=10000)
+   ![](https://komarev.com/ghpvc/?username=Odyssey409&color=green&style=for-the-badge&base=12481)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
