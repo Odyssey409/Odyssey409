@@ -203,3 +203,7 @@ DataGrip                 1 min               ░░░░░░░░░░░�
 
  Last Updated on 28/03/2025 06:47:02 UTC
 <!--END_SECTION:waka-->
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
