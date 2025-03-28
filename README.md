@@ -14,7 +14,7 @@
 
 
 <div>
-   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOdyssey409&count_bg=%23000000&title_bg=%23111010&icon=github.svg&icon_color=%23FFFFFF&title=Odyssey%27s+Github+Visitors+&edge_flat=false"/></a>
+   ![](https://komarev.com/ghpvc/?username=Odyssey409&color=green&style=for-the-badge&label=방문객+수&base=10000&abbreviated=true)
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
