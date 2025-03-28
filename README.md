@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=Odyssey%&fontSize=90&animation=twinkling" />
 </div>
 
-![snake gif](https://github.com/Odyssey409/Odyssey409/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/Odyssey409/Odyssey409/blob/output/github-contribution-grid-snake.svg)-->
 <div>
   <a href="https://github.com/devxb/gitanimals">
 <img
