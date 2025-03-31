@@ -4,28 +4,25 @@
 
 ![Header](./github-header-frontend.png)
 
-<div style="display: flex; align-items: flex-start;">
-  <!-- 왼쪽 텍스트 영역 -->
-  <div style="flex: 1; margin-right: 20px;">
-    <h1>Hey There! 👋</h1>
-    <p><strong>I'm Odyssey</strong> – I'm a university student and a frontend developer.<br />
-    I'm currently diving deeper into fullstack development and exploring new technologies every day.</p>
+# Hey There! 👋
 
-    <p>I'm passionate about:</p>
-    <ul>
-      <li>✨ Trendy frontend technologies</li>
-      <li>📰 Tech news & innovation</li>
-      <li>🚀 Startup building and entrepreneurship</li>
-    </ul>
-
-    <p>I love building cool web & app experiences, sharing ideas, and always learning something new.</p>
-  </div>
-
-  <!-- 오른쪽 이미지 영역 -->
-  <div>
-    <img src="./profile-3d-contrib/profile-night-green.svg" width="180" />
-  </div>
+<!-- 이미지가 오른쪽 상단에 뜨도록 float:right 적용 -->
+<div style="float: right; margin-left: 20px;">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="150" />
 </div>
+
+**I'm Odyssey** – I'm a university student and a frontend developer.  
+I'm currently diving deeper into fullstack development and exploring new technologies every day.
+
+I'm passionate about:
+- ✨ Trendy frontend technologies
+- 📰 Tech news & innovation
+- 🚀 Startup building and entrepreneurship
+
+I love building cool web & app experiences, sharing ideas, and always learning something new.
+
+<!-- float이 다음 섹션까지 적용되지 않도록 clear -->
+<div style="clear: both;"></div>
 
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c)](https://skillicons.dev)
