@@ -38,7 +38,7 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 
 <br><br/>
 -->
-![](./profile-3d-contrib/profile-night-green.svg)
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%208%20mins-blue)
@@ -89,6 +89,7 @@ VS Code                  1 min               ░░░░░░░░░░░�
  Last Updated on 31/03/2025 14:02:11 UTC
 <!--END_SECTION:waka-->
 
+![](./profile-3d-contrib/profile-night-green.svg)
 
 # <img src="https://img.shields.io/badge/My most recent Velog posts-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" height="36" />  
 
