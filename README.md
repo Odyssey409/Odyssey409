@@ -82,10 +82,7 @@ VS Code                  1 min               ░░░░░░░░░░░�
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
-<div style="display: flex; align-items: center ;justify-content: flex-start; gap: 8px;">
-  <img src="https://img.shields.io/badge/-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" height="32" />
-  <h2 style="margin: 0;">My most recent Velog posts</h2>
-</div>
+## <img src="https://img.shields.io/badge/20C997.svg?style=for-the-badge&logo=velog&logoColor=white" height="28" /> My most recent Velog posts 
 
 
 <!-- BLOG-POST-LIST:START -->
