@@ -75,7 +75,7 @@ VS Code                  1 min               ░░░░░░░░░░░�
   <img
     src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/main/profile-3d-contrib/profile-night-green.svg"
     alt="Profile 3D Contrib"
-    width="32%"
+    width="34%"
   />
 </a>
 
