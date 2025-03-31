@@ -19,7 +19,7 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c)](https://skillicons.dev)
 
-<br/><br/>
+
 
 ## 📊 GitHub Stats
 
