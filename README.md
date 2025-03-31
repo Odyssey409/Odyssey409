@@ -69,18 +69,22 @@ VS Code                  1 min               ░░░░░░░░░░░�
  Last Updated on 31/03/2025 14:02:11 UTC
 <!--END_SECTION:waka-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odyssey409&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a> 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Odyssey409&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+<!-- 왼쪽: 3D 컨트리뷰션, 오른쪽: GitHub Stats -->
+<a href="https://github.com/Odyssey409">
+  <img
+    src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/main/profile-3d-contrib/profile-night-green.svg"
+    alt="Profile 3D Contrib"
+    width="40%"
+  />
 </a>
 
-<img
-        src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/main/profile-3d-contrib/profile-night-green.svg"
-        alt="Profile 3D Contrib"
-        style="height: 300px" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Odyssey409&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true"
+    alt="Odyssey's GitHub Stats"
+    width="60%"
+  />
+</a>
 
 # <img src="https://img.shields.io/badge/My most recent Velog posts-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" height="36" />  
 
