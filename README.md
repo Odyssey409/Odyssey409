@@ -1,8 +1,24 @@
-![](https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=flat-square&base=12481)
+<div align=""space-between">
+  ![](https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=flat-square&base=12481)
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{Odyssey409}?pet-id=646949732184489097" width="1000" height="60"/> 
+  <img src="https://render.gitanimals.org/lines/{Odyssey409}?pet-id=646949732184489097" width="1000" height="80"/> 
 </a>
+</div>
+
+
 ![Header](./github-header-frontend.png)
+
+# Hey There! 👋
+
+**I'm Odyssey** – I'm a university student and a frontend developer.  
+I'm currently diving deeper into fullstack development and exploring new technologies every day.
+
+I'm passionate about:
+- ✨ Trendy frontend technologies
+- 📰 Tech news & innovation
+- 🚀 Startup building and entrepreneurship
+
+I love building cool web & app experiences, sharing ideas, and always learning something new.
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2019%20mins-blue)
