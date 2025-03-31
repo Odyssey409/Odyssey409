@@ -16,6 +16,9 @@ I'm passionate about:
 
 I love building cool web & app experiences, sharing ideas, and always learning something new.
 
+## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java)](https://skillicons.dev)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2019%20mins-blue)
 
