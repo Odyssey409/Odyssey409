@@ -116,7 +116,7 @@ VS Code                  1 min               ░░░░░░░░░░░�
 
 ---
 
-### 🙏 Thanks for stopping by!
+## 🙏 Thanks for stopping by!
 
 If you made it this far, thanks a ton for reading through my profile.  
 I’m always learning, building, and sharing — so feel free to connect or drop a message!
