@@ -19,6 +19,10 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c)](https://skillicons.dev)
 
+<br/><br/>
+
+## 📊 GitHub Stats
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2019%20mins-blue)
 
@@ -78,7 +82,7 @@ VS Code                  1 min               ░░░░░░░░░░░�
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
-# Most recent Velog posts
+# My most recent Velog posts
 <!-- BLOG-POST-LIST:START -->
 - [로그아웃 기능 구현 &lpar;+ notFound 처리&rpar;](https://velog.io/@odyssey/%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84-notFound-%EC%B2%98%EB%A6%AC)
 - [superRefine - Zod](https://velog.io/@odyssey/superRefine-Zod)
@@ -88,7 +92,7 @@ VS Code                  1 min               ░░░░░░░░░░░�
 <!-- BLOG-POST-LIST:END -->
 
 
-# THX For Reading My Profile! 🥹
+# Thanks For Reading My Profile! 🥹
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Odyssey409/Odyssey409/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Odyssey409/Odyssey409/output/github-contribution-grid-snake.svg">
