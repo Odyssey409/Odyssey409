@@ -80,7 +80,7 @@ VS Code                  1 min               ░░░░░░░░░░░�
 <img
         src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/main/profile-3d-contrib/profile-night-green.svg"
         alt="Profile 3D Contrib"
-        style="width: 900px;" />
+        style="width: 1000px;" />
 
 # <img src="https://img.shields.io/badge/My most recent Velog posts-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" height="36" />  
 
