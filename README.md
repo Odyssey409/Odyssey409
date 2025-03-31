@@ -16,15 +16,15 @@ I'm passionate about:
 
 I love building cool web & app experiences, sharing ideas, and always learning something new.
 
-## 🛠️ Tech Stack
+## Tech Stack
+
 <table>
   <tr>
-    <!-- 왼쪽 칸: 헤딩 + 스킬 아이콘 -->
-    <td>
+    <!-- markdown="1" 추가 -->
+    <td markdown="1">
       <h2>🛠️ Tech Stack</h2>
       [![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c&perline=5)](https://skillicons.dev)
     </td>
-    <!-- 오른쪽 칸: 원하는 이미지(예: 3D 컨트리뷰션) -->
     <td>
       <img src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/main/profile-3d-contrib/profile-night-green.svg" width="150" />
     </td>
