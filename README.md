@@ -65,29 +65,6 @@ VS Code                  1 min               ░░░░░░░░░░░�
  Last Updated on 31/03/2025 04:19:00 UTC
 <!--END_SECTION:waka-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Odyssey409/Odyssey409/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Odyssey409/Odyssey409/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/output/github-contribution-grid-snake.svg">
-</picture>
-
-![](./profile-3d-contrib/profile-season-animate.svg)
-
-<div>
-  <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/Odyssey409"
-  width="100%"
-  height="300"
-/>
-</a>
-</div>
-
-
-
-
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Odyssey409&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a> 
@@ -96,10 +73,19 @@ VS Code                  1 min               ░░░░░░░░░░░�
   <img src="https://github-readme-stats.vercel.app/api?username=Odyssey409&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Odyssey409/Odyssey409/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Odyssey409/Odyssey409/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/output/github-contribution-grid-snake.svg">
+</picture>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Odyssey409&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
+
+
+
+
+
+
+
 
 <!--내용 부분-->
 <h3 align="center">🔥 My Main Skills! 🔥</h3>
@@ -210,9 +196,6 @@ VS Code                  1 min               ░░░░░░░░░░░�
 <br>
 <br>
 
-<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=odyssey&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
 
 # Most recent Velog posts
 <!-- BLOG-POST-LIST:START -->
@@ -222,3 +205,7 @@ VS Code                  1 min               ░░░░░░░░░░░�
 - [Password Hashing &lpar;bcrypt로&rpar;](https://velog.io/@odyssey/Password-Hashing-bcrypt%EB%A1%9C)
 - [Relations](https://velog.io/@odyssey/Relations)
 <!-- BLOG-POST-LIST:END -->
+
+
+# THX For Reading My Profile! 🥹
+![](./profile-3d-contrib/profile-season-animate.svg)
