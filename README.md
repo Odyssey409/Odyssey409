@@ -6,7 +6,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/output/github-contribution-grid-snake.svg">
 </picture>
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div>
   <a href="https://github.com/devxb/gitanimals">
