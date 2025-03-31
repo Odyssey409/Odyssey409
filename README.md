@@ -26,7 +26,7 @@ I love building cool web & app experiences, sharing ideas, and always learning s
       <a href="https://skillicons.dev">
         <!-- perline=3 으로 아이콘이 한 줄에 3개씩 배치되어 더 커집니다 -->
         <img
-          src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c&perline=4"
+          src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c&perline=2"
           alt="My Skills"
           style="width: 400px;" />
       </a>
