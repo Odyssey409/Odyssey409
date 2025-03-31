@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=flat-square&base=12481)
+<div style="display: flex; justify-content: flex-start; margin-top: 4px;">
+  <img src="https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=flat-square&base=12481" />
+</div>
 
 ![Header](./github-header-frontend.png)
 
