@@ -1,12 +1,13 @@
-<!-- Gitanimal line bar -->
-<div style="display: flex; justify-content: flex-start; margin-top: -100px;">
+<!-- Gitanimal line bar (pushed to the bottom visually) -->
+<div style="position: relative; height: 120px;">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/Odyssey409?pet-id=646949732184489097" width="1400" height="120" />
+    <img src="https://render.gitanimals.org/lines/Odyssey409?pet-id=646949732184489097"
+         style="position: absolute; bottom: 0; left: 0; width: 1400px; height: 120px;" />
   </a>
 </div>
 
-<!-- Profile views badge (centered under the bar) -->
-<div style="display: flex; justify-content: flex-start; margin-top: -10px;">
+<!-- Profile views badge (aligned to left, just below the animals) -->
+<div style="display: flex; justify-content: flex-start; margin-top: 4px;">
   <img src="https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=flat-square&base=12481" />
 </div>
 
