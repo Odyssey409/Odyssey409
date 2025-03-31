@@ -23,12 +23,12 @@ I love building cool web & app experiences, sharing ideas, and always learning s
     <!-- 왼쪽 셀: 아이콘 (고정 너비) -->
     <td style="width: 400px; vertical-align: top; border: none;">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c&perline=5" alt="My Skills" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c&perline=3" alt="My Skills" />
       </a>
     </td>
     <!-- 오른쪽 셀: 3D 이미지 (나머지 전체 폭) -->
     <td style="vertical-align: top; border: none; text-align: center;">
-      <img src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/main/profile-3d-contrib/profile-night-green.svg" alt="Profile 3D Contrib" style="width: 80%; max-width: 900px;" />
+      <img src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/main/profile-3d-contrib/profile-night-green.svg" alt="Profile 3D Contrib" style="width: 100%; max-width: 900px;" />
     </td>
   </tr>
 </table>
