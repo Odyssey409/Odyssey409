@@ -1,8 +1,4 @@
-
-<!-- Profile views badge (aligned to left, just below the animals) -->
-<div style="display: flex; justify-content: space-between; margin-top: 4px;">
-  <img src="https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=flat-square&base=12481" />
-</div>
+![](https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=flat-square&base=12481)
 
 ![Header](./github-header-frontend.png)
 
