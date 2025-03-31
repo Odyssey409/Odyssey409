@@ -16,30 +16,8 @@ I'm passionate about:
 
 I love building cool web & app experiences, sharing ideas, and always learning something new.
 
-## Tech Stack
-
-<!-- 테이블 전체 너비 100%, 테두리/셀 간격 제거 -->
-<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <!-- 왼쪽 셀: 아이콘 (고정 너비 300px) -->
-    <td style="width: 400px; vertical-align: top; border: none;">
-      <a href="https://skillicons.dev">
-        <!-- perline=3 으로 아이콘이 한 줄에 3개씩 배치되어 더 커집니다 -->
-        <img
-          src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c&perline=3"
-          alt="My Skills"
-          style="width: 400px;" />
-      </a>
-    </td>
-    <!-- 오른쪽 셀: 3D 이미지 (나머지 공간 전부 사용) -->
-    <td style="vertical-align: top; border: none;">
-      <img
-        src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/main/profile-3d-contrib/profile-night-green.svg"
-        alt="Profile 3D Contrib"
-        style="width: 100%; max-width: 900px;" />
-    </td>
-  </tr>
-</table>
+## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 <!--START_SECTION:waka-->
