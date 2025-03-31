@@ -4,11 +4,12 @@
 
 ![Header](./github-header-frontend.png)
 
-# Hey There! 👋
-
-<!-- 이미지가 오른쪽 상단에 뜨도록 float:right 적용 -->
-<div style="float: right; margin-left: 20px;">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="150" />
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- 헤딩을 HTML 태그로 직접 작성 -->
+  <h1 style="margin: 0;">Hey There! 👋</h1>
+  
+  <!-- 오른쪽에 놓을 이미지 -->
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="140" />
 </div>
 
 **I'm Odyssey** – I'm a university student and a frontend developer.  
@@ -21,14 +22,10 @@ I'm passionate about:
 
 I love building cool web & app experiences, sharing ideas, and always learning something new.
 
-<!-- float이 다음 섹션까지 적용되지 않도록 clear -->
-<div style="clear: both;"></div>
-
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%2019%20mins-blue)
 
