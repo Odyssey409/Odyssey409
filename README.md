@@ -1,7 +1,7 @@
 <!-- Gitanimal line bar -->
-<div>
+<div style="display: flex; justify-content: flex-start; margin-top: -10px;">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/Odyssey409?pet-id=646949732184489097" width="1000" height="80" />
+    <img src="https://render.gitanimals.org/lines/Odyssey409?pet-id=646949732184489097" width="1400" height="80" />
   </a>
 </div>
 
