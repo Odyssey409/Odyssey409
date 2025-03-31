@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=for-the-badge&base=12481)
 ![Header](./github-header-frontend.png)
 
 <!--START_SECTION:waka-->
@@ -69,7 +70,7 @@ VS Code                  1 min               ░░░░░░░░░░░�
 
 
 
-   ![](https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=for-the-badge&base=12481)
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -198,7 +199,7 @@ VS Code                  1 min               ░░░░░░░░░░░�
 
 
 
-# Blog posts
+# Most recent Velog posts
 <!-- BLOG-POST-LIST:START -->
 - [로그아웃 기능 구현 &lpar;+ notFound 처리&rpar;](https://velog.io/@odyssey/%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84-notFound-%EC%B2%98%EB%A6%AC)
 - [superRefine - Zod](https://velog.io/@odyssey/superRefine-Zod)
