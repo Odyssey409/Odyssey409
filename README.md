@@ -17,7 +17,7 @@ I'm passionate about:
 I love building cool web & app experiences, sharing ideas, and always learning something new.
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c&perline=5)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 <!--START_SECTION:waka-->
