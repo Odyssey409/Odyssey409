@@ -1,11 +1,14 @@
-<div align="space-between">
-  
-  ![](https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=flat-square&base=12481)
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{Odyssey409}?pet-id=646949732184489097" width="1000" height="80"/> 
-</a>
+<!-- Gitanimal line bar -->
+<div>
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/lines/Odyssey409?pet-id=646949732184489097" width="1000" height="80" />
+  </a>
 </div>
 
+<!-- Profile views badge (centered under the bar) -->
+<div style="display: flex; justify-content: flex-start; margin-top: -10px;">
+  <img src="https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=flat-square&base=12481" />
+</div>
 
 ![Header](./github-header-frontend.png)
 
