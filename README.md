@@ -2,6 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=flat-square&base=12481" />
 </div>
 
+![Header](./github-header-frontend.png)
+
 # Hey There! 👋
 
 **I'm Odyssey** – I'm a university student and a frontend developer.  
