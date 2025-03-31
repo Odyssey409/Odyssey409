@@ -91,10 +91,19 @@ VS Code                  1 min               ░░░░░░░░░░░�
 - [Relations](https://velog.io/@odyssey/Relations)
 <!-- BLOG-POST-LIST:END -->
 
+---
 
-# Thanks For Reading My Profile! 🥹
+### 🙏 Thanks for stopping by!
+
+If you made it this far, thanks a ton for reading through my profile.  
+I’m always learning, building, and sharing — so feel free to connect or drop a message!
+
+> Stay curious, keep coding, and build something awesome. 🚀
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Odyssey409/Odyssey409/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Odyssey409/Odyssey409/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/output/github-contribution-grid-snake.svg">
 </picture>
+---
+
+
