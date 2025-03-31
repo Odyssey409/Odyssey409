@@ -104,6 +104,7 @@ I’m always learning, building, and sharing — so feel free to connect or drop
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Odyssey409/Odyssey409/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/output/github-contribution-grid-snake.svg">
 </picture>
+
 ---
 
 
