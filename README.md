@@ -2,15 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=flat-square&base=12481" />
 </div>
 
-![Header](./github-header-frontend.png)
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <!-- 헤딩을 HTML 태그로 직접 작성 -->
-  <h1 style="margin: 0;">Hey There! 👋</h1>
-  
-  <!-- 오른쪽에 놓을 이미지 -->
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="140" />
-</div>
+# Hey There! 👋
 
 **I'm Odyssey** – I'm a university student and a frontend developer.  
 I'm currently diving deeper into fullstack development and exploring new technologies every day.
