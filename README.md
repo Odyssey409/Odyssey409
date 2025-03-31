@@ -20,6 +20,21 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
+<a href="https://github.com/Odyssey409">
+  <img
+    src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/main/profile-3d-contrib/profile-night-green.svg"
+    alt="Profile 3D Contrib"
+    width="37%"
+  />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Odyssey409&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true"
+    alt="Odyssey's GitHub Stats"
+    width="59%"
+  />
+</a>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%208%20mins-blue)
 
@@ -69,20 +84,6 @@ VS Code                  1 min               ░░░░░░░░░░░�
  Last Updated on 31/03/2025 14:02:11 UTC
 <!--END_SECTION:waka-->
 
-<a href="https://github.com/Odyssey409">
-  <img
-    src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/main/profile-3d-contrib/profile-night-green.svg"
-    alt="Profile 3D Contrib"
-    width="37%"
-  />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Odyssey409&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true"
-    alt="Odyssey's GitHub Stats"
-    width="59%"
-  />
-</a>
 
 # <img src="https://img.shields.io/badge/My most recent Velog posts-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" height="36" />  
 
