@@ -23,7 +23,7 @@
 
   <!-- 오른쪽 이미지 영역 -->
   <div>
-    <img src="./profile-3d-contrib/profile-night-green.svg" width="200" />
+    <img src="./profile-3d-contrib/profile-night-green.svg" width="180" />
   </div>
 </div>
 
