@@ -2,10 +2,6 @@
 <!-- Profile views badge (aligned to left, just below the animals) -->
 <div style="display: flex; justify-content: space-between; margin-top: 4px;">
   <img src="https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=flat-square&base=12481" />
-   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/Odyssey409?pet-id=646949732184489097"
-         style="position: absolute; bottom: 0; left: 0; width: 1400px; height: 120px;" />
-  </a>
 </div>
 
 ![Header](./github-header-frontend.png)
