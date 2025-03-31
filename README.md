@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=flat&base=12481)
+![](https://komarev.com/ghpvc/?username=Odyssey409&color=brightgreen&style=flat-square&base=12481)
 ![Header](./github-header-frontend.png)
 
 <!--START_SECTION:waka-->
