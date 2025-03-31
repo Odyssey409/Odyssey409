@@ -20,6 +20,7 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
+<!--
 <a href="https://github.com/Odyssey409">
   <img
     src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/main/profile-3d-contrib/profile-night-green.svg"
@@ -36,6 +37,9 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 </a>
 
 <br><br/>
+-->
+![](./profile-3d-contrib/profile-night-green.svg)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%208%20mins-blue)
 
