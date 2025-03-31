@@ -82,7 +82,7 @@ VS Code                  1 min               ░░░░░░░░░░░�
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
-## <img src="https://img.shields.io/badge/-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" height="28" /> My most recent Velog posts 
+## <img src="https://img.shields.io/badge/My most recent Velog posts-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" height="28" />  
 
 
 <!-- BLOG-POST-LIST:START -->
