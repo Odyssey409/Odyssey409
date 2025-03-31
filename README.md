@@ -31,7 +31,6 @@ I love building cool web & app experiences, sharing ideas, and always learning s
           style="width: 300px;" />
       </a>
     </td>
-
     <!-- 오른쪽 셀: 3D 이미지 (나머지 공간 전부 사용) -->
     <td style="vertical-align: top; border: none;">
       <img
