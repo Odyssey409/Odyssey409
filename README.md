@@ -21,7 +21,7 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <!-- 왼쪽 셀: 아이콘 (고정 너비) -->
-    <td style="width: 250px; vertical-align: top; border: none;">
+    <td style="width: 400px; vertical-align: top; border: none;">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c&perline=5" alt="My Skills" />
       </a>
