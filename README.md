@@ -4,7 +4,7 @@
 
 ![Header](./github-header-frontend.png)
 
-# Hey There!👋 인녕하세요😁 
+# Hey There!👋 안녕하세요😁 
 
 **I'm Odyssey** – I'm a university student and a frontend developer.  
 I'm currently diving deeper into fullstack development and exploring new technologies every day.
