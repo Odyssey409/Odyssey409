@@ -34,7 +34,8 @@ I love building cool web & app experiences, sharing ideas, and always learning s
     width="59%"
   />
 </a>
-<br/>
+
+<br><br/>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%208%20mins-blue)
 
