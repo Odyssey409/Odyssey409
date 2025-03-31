@@ -22,13 +22,13 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 <table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <!-- 왼쪽 셀: 아이콘 (고정 너비 300px) -->
-    <td style="width: 300px; vertical-align: top; border: none;">
+    <td style="width: 400px; vertical-align: top; border: none;">
       <a href="https://skillicons.dev">
         <!-- perline=3 으로 아이콘이 한 줄에 3개씩 배치되어 더 커집니다 -->
         <img
           src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c&perline=3"
           alt="My Skills"
-          style="width: 300px;" />
+          style="width: 400px;" />
       </a>
     </td>
     <!-- 오른쪽 셀: 3D 이미지 (나머지 공간 전부 사용) -->
