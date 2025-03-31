@@ -20,13 +20,18 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 
 <table>
   <tr>
-    <!-- markdown="1" 추가 -->
-    <td markdown="1">
+    <!-- 왼쪽 셀: "Tech Stack" 헤딩 + 스킬 아이콘 -->
+    <td valign="top">
       <h2>🛠️ Tech Stack</h2>
-      [![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c&perline=5)](https://skillicons.dev)
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,ts,js,tailwind,html,css,prisma,java,c&perline=5"
+             alt="My Skills" />
+      </a>
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/main/profile-3d-contrib/profile-night-green.svg" width="150" />
+    <!-- 오른쪽 셀: 3D 컨트리뷰션 이미지 -->
+    <td valign="top">
+      <img src="https://raw.githubusercontent.com/Odyssey409/Odyssey409/main/profile-3d-contrib/profile-night-green.svg"
+           width="150" alt="Profile 3D Contrib" />
     </td>
   </tr>
 </table>
