@@ -82,8 +82,7 @@ VS Code                  1 min               ░░░░░░░░░░░�
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
-# My most recent Velog posts  
-<img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" />
+## My most recent Velog posts <img src="https://img.shields.io/badge/velog-20C997.svg?style=for-the-badge&logo=velog&logoColor=white" height="28" />
 
 <!-- BLOG-POST-LIST:START -->
 - [로그아웃 기능 구현 &lpar;+ notFound 처리&rpar;](https://velog.io/@odyssey/%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84-notFound-%EC%B2%98%EB%A6%AC)
