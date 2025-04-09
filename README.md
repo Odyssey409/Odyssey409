@@ -104,11 +104,11 @@ CLion                    2 mins              █░░░░░░░░░░�
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Github Authentication](https://velog.io/@odyssey/Github-Authentication)
 - [Runtime](https://velog.io/@odyssey/Runtime)
 - [Middleware](https://velog.io/@odyssey/Middleware)
 - [로그아웃 기능 구현 &lpar;+ notFound 처리&rpar;](https://velog.io/@odyssey/%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84-notFound-%EC%B2%98%EB%A6%AC)
 - [superRefine - Zod](https://velog.io/@odyssey/superRefine-Zod)
-- [Cookie, Session 그리고 iron-session](https://velog.io/@odyssey/Cookie-Session-%EA%B7%B8%EB%A6%AC%EA%B3%A0-iron-session)
 <!-- BLOG-POST-LIST:END -->
 
 ---
