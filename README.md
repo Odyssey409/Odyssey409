@@ -41,7 +41,7 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -72,14 +72,19 @@ Sunday                   141 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-SQL                      1 hr 1 min          █████████████████████████   100.00 % 
+SQL                      1 hr 2 mins         ██████████████████████░░░   87.75 % 
+Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-DataGrip                 1 hr 1 min          █████████████████████████   100.00 % 
+DataGrip                 1 hr 2 mins         ██████████████████████░░░   87.75 % 
+Cursor                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 ```
 
 
- Last Updated on 26/05/2025 15:11:41 UTC
+ Last Updated on 27/05/2025 15:12:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
