@@ -72,14 +72,14 @@ Sunday                   141 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-SQL                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-DataGrip                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/06/2025 15:13:06 UTC
+ Last Updated on 04/06/2025 15:36:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
