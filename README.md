@@ -102,11 +102,11 @@ Cursor                   1 hr                ███████████�
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Twilio를 이용한 SMS 인증 구현-토큰 검증](https://velog.io/@odyssey/Twilio%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-SMS-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84-%ED%86%A0%ED%81%B0-%EA%B2%80%EC%A6%9D)
 - [Twilio를 이용한 SMS 인증 구현-준비](https://velog.io/@odyssey/Twilio%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-SMS-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84-%EC%A4%80%EB%B9%84)
 - [Github Authentication](https://velog.io/@odyssey/Github-Authentication)
 - [Runtime](https://velog.io/@odyssey/Runtime)
 - [Middleware](https://velog.io/@odyssey/Middleware)
-- [로그아웃 기능 구현 &lpar;+ notFound 처리&rpar;](https://velog.io/@odyssey/%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84-notFound-%EC%B2%98%EB%A6%AC)
 <!-- BLOG-POST-LIST:END -->
 
 ---
