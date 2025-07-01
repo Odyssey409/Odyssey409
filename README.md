@@ -65,11 +65,11 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js의 Image 컴포넌트](https://velog.io/@odyssey/Next.js%EC%9D%98-Image-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)
 - [Next.js에서 Loading UI 구현하기 &lpar;Skeleton UI&rpar;](https://velog.io/@odyssey/Next.js%EC%97%90%EC%84%9C-Loading-UI-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Skeleton-UI)
 - [Route Groups와 Layout 활용](https://velog.io/@odyssey/Route-Groups%EC%99%80-Layout-%ED%99%9C%EC%9A%A9)
 - [Twilio를 이용한 SMS 인증 구현-Twilio 연동](https://velog.io/@odyssey/Twilio%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-SMS-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84-Twilio-%EC%97%B0%EB%8F%99)
 - [Twilio를 이용한 SMS 인증 구현-토큰 검증](https://velog.io/@odyssey/Twilio%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-SMS-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84-%ED%86%A0%ED%81%B0-%EA%B2%80%EC%A6%9D)
-- [Twilio를 이용한 SMS 인증 구현-준비](https://velog.io/@odyssey/Twilio%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-SMS-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84-%EC%A4%80%EB%B9%84)
 <!-- BLOG-POST-LIST:END -->
 
 ---
