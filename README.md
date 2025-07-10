@@ -104,11 +104,11 @@ VS Code                  2 hrs 49 mins       ███████████�
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Faker로 쉽게 더미 데이터 생성하기](https://velog.io/@odyssey/Faker%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EB%8D%94%EB%AF%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+- [Next.js와 Prisma를 이용한  Pagination](https://velog.io/@odyssey/Next.js%EC%99%80-Prisma%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Pagination)
 - [Intl.RelativeTimeFormat 과 toLocaleString 이용한 상대  표현](https://velog.io/@odyssey/Intl.RelativeTimeFormat-%EA%B3%BC-toLocaleString-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%83%81%EB%8C%80-%ED%91%9C%ED%98%84)
 - [Next.js의 Image 컴포넌트](https://velog.io/@odyssey/Next.js%EC%9D%98-Image-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)
 - [Next.js에서 Loading UI 구현하기 &lpar;Skeleton UI&rpar;](https://velog.io/@odyssey/Next.js%EC%97%90%EC%84%9C-Loading-UI-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Skeleton-UI)
-- [Route Groups와 Layout 활용](https://velog.io/@odyssey/Route-Groups%EC%99%80-Layout-%ED%99%9C%EC%9A%A9)
-- [Twilio를 이용한 SMS 인증 구현-Twilio 연동](https://velog.io/@odyssey/Twilio%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-SMS-%EC%9D%B8%EC%A6%9D-%EA%B5%AC%ED%98%84-Twilio-%EC%97%B0%EB%8F%99)
 <!-- BLOG-POST-LIST:END -->
 
 ---
