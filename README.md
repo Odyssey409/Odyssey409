@@ -104,11 +104,11 @@ VS Code                  3 hrs 7 mins        ███████████�
 
 
 <!-- BLOG-POST-LIST:START -->
+- [URL.createObjectURL&lpar;&rpar;로 파일 미리보기 구현](https://velog.io/@odyssey/URL.createObjectURL%EB%A1%9C-%ED%8C%8C%EC%9D%BC-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EA%B5%AC%ED%98%84)
+- [&lt;label&gt; 태그의 활용](https://velog.io/@odyssey/label-%ED%83%9C%EA%B7%B8%EC%9D%98-%ED%99%9C%EC%9A%A9)
 - [IntersectionObserver로 무한 스크롤 구현하기](https://velog.io/@odyssey/IntersectionObserver%EB%A1%9C-%EB%AC%B4%ED%95%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-1)
 - [Faker로 쉽게 더미 데이터 생성하기](https://velog.io/@odyssey/Faker%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EB%8D%94%EB%AF%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 - [Next.js와 Prisma를 이용한  Pagination](https://velog.io/@odyssey/Next.js%EC%99%80-Prisma%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-Pagination)
-- [Intl.RelativeTimeFormat 과 toLocaleString 이용한 상대  표현](https://velog.io/@odyssey/Intl.RelativeTimeFormat-%EA%B3%BC-toLocaleString-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%83%81%EB%8C%80-%ED%91%9C%ED%98%84)
-- [Next.js의 Image 컴포넌트](https://velog.io/@odyssey/Next.js%EC%9D%98-Image-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
