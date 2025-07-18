@@ -41,7 +41,7 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -72,18 +72,16 @@ Sunday                   143 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               2 hrs 22 mins       ███████████████████░░░░░░   76.07 % 
-JavaScript               41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               2 hrs 29 mins       ██████████████████████░░░   86.62 % 
+JavaScript               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/07/2025 15:13:13 UTC
+ Last Updated on 18/07/2025 15:12:45 UTC
 <!--END_SECTION:waka-->
 
 <!--
