@@ -41,12 +41,10 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2022%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
 
- Last Updated on 27/09/2025 15:09:53 UTC
+ Last Updated on 28/09/2025 15:09:42 UTC
 <!--END_SECTION:waka-->
 
 <!--
