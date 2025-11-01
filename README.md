@@ -45,41 +45,8 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                73 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-🌆 Daytime                1942 commits        █████████████░░░░░░░░░░░░   52.15 % 
-🌃 Evening                826 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
-🌙 Night                  883 commits         ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   702 commits         █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Tuesday                  504 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Wednesday                788 commits         █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
-Thursday                 787 commits         █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-Friday                   667 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Saturday                 116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Sunday                   160 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 31/10/2025 15:11:06 UTC
+ Last Updated on 01/11/2025 15:10:08 UTC
 <!--END_SECTION:waka-->
 
 <!--
