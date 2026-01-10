@@ -72,15 +72,14 @@ Sunday                   162 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-HTML                     47 mins             ████████████████████░░░░░   78.60 % 
-TypeScript               13 mins             █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/01/2026 15:14:42 UTC
+ Last Updated on 10/01/2026 15:12:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
