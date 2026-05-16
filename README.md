@@ -41,10 +41,45 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%2018%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.81%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 15/05/2026 16:47:56 UTC
+```text
+🌞 Morning                116 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+🌆 Daytime                2145 commits        ████████████░░░░░░░░░░░░░   49.74 % 
+🌃 Evening                985 commits         ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+🌙 Night                  1066 commits        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   753 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Tuesday                  636 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Wednesday                895 commits         █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Thursday                 895 commits         █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Friday                   743 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+Saturday                 177 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Sunday                   213 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 16/05/2026 15:47:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
