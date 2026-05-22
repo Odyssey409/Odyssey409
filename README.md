@@ -41,8 +41,6 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%2030%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.81%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -79,7 +77,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/05/2026 17:27:42 UTC
+ Last Updated on 22/05/2026 17:04:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
