@@ -45,8 +45,45 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.95%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 16/06/2026 18:53:05 UTC
+```text
+🌞 Morning                140 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+🌆 Daytime                2174 commits        ████████████░░░░░░░░░░░░░   49.29 % 
+🌃 Evening                1008 commits        ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+🌙 Night                  1089 commits        ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   753 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Tuesday                  651 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Wednesday                920 commits         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Thursday                 917 commits         █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Friday                   753 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Saturday                 187 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Sunday                   230 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Markdown                 2 hrs 41 mins       ██████████████░░░░░░░░░░░   54.18 % 
+Python                   1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+Other                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+JavaScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 46 mins       ████████████████████████░   96.22 % 
+Cursor                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+```
+
+
+ Last Updated on 17/06/2026 17:45:03 UTC
 <!--END_SECTION:waka-->
 
 <!--
