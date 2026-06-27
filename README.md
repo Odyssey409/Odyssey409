@@ -41,7 +41,7 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.74%20million%20lines%20of%20code-blue?style=flat)
 
@@ -72,15 +72,18 @@ Sunday                   183 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Bash                     13 mins             █████████████████████████   99.39 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Python                   2 hrs 8 mins        █████████████░░░░░░░░░░░░   51.58 % 
+YAML                     1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-Cursor                   13 mins             █████████████████████████   100.00 % 
+Cursor                   4 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/06/2026 16:56:36 UTC
+ Last Updated on 27/06/2026 15:59:54 UTC
 <!--END_SECTION:waka-->
 
 <!--
