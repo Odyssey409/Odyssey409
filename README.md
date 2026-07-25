@@ -41,28 +41,26 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2053%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.80%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-🌆 Daytime                2156 commits        █████████████░░░░░░░░░░░░   50.90 % 
-🌃 Evening                955 commits         ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-🌙 Night                  1030 commits        ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
+🌞 Morning                107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+🌆 Daytime                2202 commits        █████████████░░░░░░░░░░░░   50.95 % 
+🌃 Evening                969 commits         ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+🌙 Night                  1044 commits        ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   753 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Tuesday                  606 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Wednesday                874 commits         █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-Thursday                 914 commits         █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-Friday                   739 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Sunday                   188 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Monday                   753 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Tuesday                  618 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Wednesday                886 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Thursday                 954 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Friday                   745 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Saturday                 168 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Sunday                   198 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 ```
 
 
@@ -72,16 +70,19 @@ Sunday                   188 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               29 mins             ██████████████████░░░░░░░   72.00 % 
-SQL                      11 mins             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Python                   3 hrs 50 mins       █████████████████░░░░░░░░   69.47 % 
+TypeScript               52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-Cursor                   40 mins             █████████████████████████   98.70 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Cursor                   5 hrs 30 mins       █████████████████████████   99.84 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 
- Last Updated on 23/07/2026 16:20:45 UTC
+ Last Updated on 25/07/2026 15:57:15 UTC
 <!--END_SECTION:waka-->
 
 <!--
