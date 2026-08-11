@@ -74,44 +74,44 @@ Sunday                   210 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-HTML                     4 hrs 17 mins       ████████████░░░░░░░░░░░░░   47.88 % 
-JavaScript               1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Text                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+HTML                     4 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.55 % 
+Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+JavaScript               1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Text                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 21 mins       ██████████████████░░░░░░░   70.89 % 
-VS Code                  2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+Claude Code              6 hrs 21 mins       ██████████████████░░░░░░░   71.87 % 
+VS Code                  2 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 43 mins (97.26%)
+⏱ AI Coding Time: 8 hrs 36 mins (97.22%)
 
-✍️ 9,790 lines written by AI, 313 lines written by hand (96.9% AI-written)
+✍️ 9,709 lines written by AI, 313 lines written by hand (96.88% AI-written)
 
-🔤 473,971,331 Input Tokens, 914,051 Output Tokens
+🔤 471,309,325 Input Tokens, 898,437 Output Tokens
 
-💵 $2385.78 Estimated AI Cost This Week
+💵 $2372.01 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 58 AI Prompts
+🧠 13 AI Sessions, 56 AI Prompts
 
-GPT                      5,976 lines         ██████████████░░░░░░░░░░░   55.54 % 
-Opus                     4,466 lines         ██████████░░░░░░░░░░░░░░░   41.51 % 
-Sonnet                   317 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+GPT                      5,895 lines         ██████████████░░░░░░░░░░░   55.21 % 
+Opus                     4,466 lines         ██████████░░░░░░░░░░░░░░░   41.82 % 
+Sonnet                   317 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.9% of written lines came from AI
-📚 Verbose Prompter — average 3,340 characters per prompt
+🤖 AI-Driven — 96.88% of written lines came from AI
+📚 Verbose Prompter — average 3,356 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.83% of changed lines were hand-edited
+🚀 High AI Trust — 2.85% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/08/2026 15:49:58 UTC
+ Last Updated on 11/08/2026 15:50:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
