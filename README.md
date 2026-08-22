@@ -41,9 +41,9 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-49%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.83%20million%20lines%20of%20code-blue?style=flat)
 
@@ -74,47 +74,47 @@ Sunday                   184 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   32.69 % 
-Other                    35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Text                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-TypeScript               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+JavaScript               1 hr 5 mins         █████████████░░░░░░░░░░░░   52.94 % 
+TypeScript               39 mins             ████████░░░░░░░░░░░░░░░░░   32.24 % 
+SQL                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Python                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-Cursor                   1 hr 20 mins        ██████████░░░░░░░░░░░░░░░   40.30 % 
-Codex Vscode             59 mins             ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-Claude Code              35 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-VS Code                  21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Codex Vscode             59 mins             ████████████░░░░░░░░░░░░░   48.35 % 
+Cursor                   51 mins             ██████████░░░░░░░░░░░░░░░   41.64 % 
+VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 18 mins (99.68%)
+⏱ AI Coding Time: 1 hr 54 mins (93.2%)
 
-✍️ 2,548 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,319 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 1,246,335 Input Tokens, 183,500 Output Tokens
+🔤 1,541,201 Input Tokens, 136,489 Output Tokens
 
-💵 $34.54 Estimated AI Cost This Week
+💵 $28.10 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 39 AI Prompts
+🧠 11 AI Sessions, 32 AI Prompts
 
-GPT                      2,298 lines         ██████████████████████░░░   89.91 % 
-Opus                     258 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      2,298 lines         █████████████████░░░░░░░░   68.88 % 
+Composer                 680 lines           █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Opus                     358 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,010 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 4,133 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/08/2026 15:23:30 UTC
+ Last Updated on 22/08/2026 15:12:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
