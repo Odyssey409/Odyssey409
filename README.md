@@ -50,18 +50,18 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                109 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-🌆 Daytime                2352 commits        ████████████░░░░░░░░░░░░░   49.87 % 
-🌃 Evening                1148 commits        ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-🌙 Night                  1107 commits        ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+🌞 Morning                111 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+🌆 Daytime                2352 commits        ████████████░░░░░░░░░░░░░   49.85 % 
+🌃 Evening                1148 commits        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+🌙 Night                  1107 commits        ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   783 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-Tuesday                  621 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Wednesday                995 commits         █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-Thursday                 1010 commits        █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Tuesday                  621 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Wednesday                995 commits         █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Thursday                 1012 commits        █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
 Friday                   809 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
 Saturday                 298 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 Sunday                   200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
@@ -74,30 +74,30 @@ Sunday                   200 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               5 hrs 17 mins       ██████████████████░░░░░░░   72.43 % 
-Markdown                 1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TypeScript               3 hrs 27 mins       ██████████████████░░░░░░░   72.45 % 
+Markdown                 1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.19 % 
-Codex Vscode             2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-VS Code                  1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+Codex Vscode             2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.17 % 
+Claude Code              1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+VS Code                  1 hr 17 mins        ███████░░░░░░░░░░░░░░░░░░   27.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 18 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 46 mins (100.0%)
 
 ✍️ 4,226 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,439,508 Input Tokens, 686,188 Output Tokens
+🔤 5,433,572 Input Tokens, 471,984 Output Tokens
 
-💵 $202.69 Estimated AI Cost This Week
+💵 $132.08 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 80 AI Prompts
+🧠 14 AI Sessions, 51 AI Prompts
 
 GPT                      4,228 lines         █████████████████████████   99.83 % 
 Codex-Vscode             7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
@@ -105,13 +105,13 @@ Opus                     0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 15,494 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 16,208 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 18:09:28 UTC
+ Last Updated on 10/09/2026 17:58:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
