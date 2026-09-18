@@ -74,40 +74,39 @@ Sunday                   200 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-SQL                      1 hr 9 mins         ██████████████░░░░░░░░░░░   57.97 % 
-TypeScript               45 mins             █████████░░░░░░░░░░░░░░░░   37.57 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+SQL                      1 hr 9 mins         ██████████████████░░░░░░░   72.96 % 
+TypeScript               25 mins             ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-Claude Code              1 hr 49 mins        ███████████████████████░░   90.90 % 
-VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Claude Code              1 hr 24 mins        ██████████████████████░░░   88.55 % 
+VS Code                  10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 55 mins (95.92%)
+⏱ AI Coding Time: 1 hr 30 mins (94.86%)
 
-✍️ 773 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 494 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,121,470 Input Tokens, 137,113 Output Tokens
+🔤 1,098,181 Input Tokens, 116,829 Output Tokens
 
-💵 $54.76 Estimated AI Cost This Week
+💵 $42.09 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 16 AI Prompts
+🧠 2 AI Sessions, 15 AI Prompts
 
-Opus                     773 lines           █████████████████████████   100.00 % 
+Opus                     494 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 936 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 999 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/09/2026 18:42:20 UTC
+ Last Updated on 18/09/2026 17:58:52 UTC
 <!--END_SECTION:waka-->
 
 <!--
