@@ -41,9 +41,9 @@ I love building cool web & app experiences, sharing ideas, and always learning s
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.99%20million%20lines%20of%20code-blue?style=flat)
 
@@ -74,39 +74,41 @@ Sunday                   200 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-SQL                      1 hr 9 mins         ██████████████████░░░░░░░   72.96 % 
-TypeScript               25 mins             ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+SQL                      15 mins             ███████████████████░░░░░░   75.78 % 
+Python                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-Claude Code              1 hr 24 mins        ██████████████████████░░░   88.55 % 
-VS Code                  10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Claude Code              16 mins             ███████████████████░░░░░░   77.82 % 
+Codex Vscode             4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 30 mins (94.86%)
+⏱ AI Coding Time: 21 mins (100.0%)
 
-✍️ 494 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 15 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,098,181 Input Tokens, 116,829 Output Tokens
+🔤 1,241,979 Input Tokens, 47,215 Output Tokens
 
-💵 $42.09 Estimated AI Cost This Week
+💵 $18.40 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 15 AI Prompts
+🧠 3 AI Sessions, 5 AI Prompts
 
-Opus                     494 lines           █████████████████████████   100.00 % 
+GPT                      15 lines            █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 999 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 2,932 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/09/2026 18:26:35 UTC
+ Last Updated on 23/09/2026 18:45:30 UTC
 <!--END_SECTION:waka-->
 
 <!--
