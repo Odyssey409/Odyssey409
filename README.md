@@ -74,41 +74,36 @@ Sunday                   200 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-SQL                      15 mins             ███████████████████░░░░░░   75.78 % 
-Python                   3 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+SQL                      5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              16 mins             ███████████████████░░░░░░   77.82 % 
-Codex Vscode             4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Claude Code              5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (100.0%)
+⏱ AI Coding Time: 5 mins (100.0%)
 
-✍️ 15 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,241,979 Input Tokens, 47,215 Output Tokens
+🔤 95,368 Input Tokens, 13,322 Output Tokens
 
-💵 $18.40 Estimated AI Cost This Week
+💵 $2.55 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-GPT                      15 lines            █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,932 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 30 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/09/2026 18:45:30 UTC
+ Last Updated on 24/09/2026 18:46:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
